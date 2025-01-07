@@ -4,7 +4,7 @@
   box-sizing: border-box;
 } */
 .adjust {
-  height: 70vh;
+  height: 100vh;
   display: flex; /* Flexbox for centering or aligning the child div */
   justify-content: center; /* Center the child horizontally */
   align-items: center;
