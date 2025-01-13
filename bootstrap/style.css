@@ -84,7 +84,6 @@
   width: 100%;
   padding: 10px;
   border-radius: 50px;
-  
 }
 .search-bar button {
   border: none;
@@ -212,10 +211,9 @@ h2 {
   color: #007bff;
 }
 .black {
-  background: #1a1a1a;
   width: 70%;
   margin: 0 auto;
-  padding: 20px; /* Optional: Add padding for inner spacing */
+  padding: 20px;
   border-radius: 10px;
 }
 
@@ -257,10 +255,52 @@ h2 {
   text-align: center;
   margin: 5px;
   display: inline-block;
-  /* transition: background-color 0.3s, color 0.3s; */
+  
 }
-/* 
-.tag-button:hover {
-  background-color: #000;
-  color: #fff;
-} */
+
+footerchild {
+  background-color: rgb(30, 74, 66);
+  color: white;
+  padding: 40px 20px;
+}
+
+footerchild h5 {
+  margin-bottom: 20px;
+  color: rgb(137, 161, 155);
+}
+
+footerchild a {
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+.sent-btn {
+  background-color: #3e8370;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.app-btn {
+  display: inline-block;
+  background-color: #3e8370;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.paragraph {
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+.boxes {
+  margin-right: 200px;
+}
